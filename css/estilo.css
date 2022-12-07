@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#cabecalho{
+
+position: absolute;
+width: 1280px;
+height: 500px;
+left: 0px;
+top: 0px;
+
+}
+
+.area-menu{
+ box-sizing: border-box ; 
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ padding: 24px 22px;
+ gap: 54px;
+ position: absolute;
+ width: 580px;
+ height: 76px;
+ left: 350px;
+ top: 305px;
+ background: #FFFFFF;
+ border: 1px solid #000000;
+    
+    
+}
+.area-menu a{
+text-decoration: none;
+color: #000000;
+margin-left: 30px;
+}
+
+
+.titulo{
+    position: absolute;
+width: 196px;
+height: 39px;
+left: 542px;
+top: 118px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+}
+
+.joao-ninguem{
+
+position: absolute;
+width: 349px;
+height: 42px;
+left: 466px;
+top: 189px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 42px;
+letter-spacing: 0.295em;
+
+}
+
+#fotos{
+
+position: absolute;
+width: 1280px;
+height: 735.85px;
+left: 0px;
+top: 500px;
+}
+
+footer{
+position: absolute;
+width: 1280px;
+height: 302px;
+left: 0px;
+}
+
+p{
+position: absolute;
+width: 358px;
+height: 58px;
+left: 461px;
+top: 1347px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+}
+
+#redes-sociais{
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: flex-start;
+padding: 11px 15px 8px;
+gap: 30px;
+    
+position: absolute;
+width: 280px;
+height: 59px;
+left: 500px;
+top: 1430px;
+}
+
+
+
+
+
+
+ 
